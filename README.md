@@ -6,7 +6,7 @@
 ![](./img/2.png)
 
 ## 二、预览网址
-项目网址：https://starsareblindi.github.io/SN_headLines/
+项目网址：[SN头条数据管理平台](https://starsareblindi.github.io/SN_headLines)
 
 ## 三、相关技术
 ### 1.基于Bootstrap搭建网站标签和样式
