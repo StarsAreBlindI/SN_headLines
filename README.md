@@ -1,9 +1,9 @@
 ## 一、效果图
 内容管理界面：
-![](../img/1.png)
+![](./img/1.png)
 发布文章界面：
 
-![](../img/2.png)
+![](./img/2.png)
 
 ## 二、预览网址
 项目网址：[SN头条数据管理平台](https://starsareblindi.github.io/SN_headLines)
