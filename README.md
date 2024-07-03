@@ -6,8 +6,7 @@
 ![](./img/2.png)
 
 ## 二、预览网址
-项目网址：
-源代码网址：[https://gitee.com/StarsAreBlindI/sn_head-lines](https://gitee.com/StarsAreBlindI/sn_head-lines)
+项目网址：https://starsareblindi.github.io/SN_headLines/
 
 ## 三、相关技术
 ### 1.基于Bootstrap搭建网站标签和样式
